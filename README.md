@@ -39,5 +39,5 @@ Input output example
 $ ./rl -i test.txt -o output.txt
 Input option value: test.txt
 Output option value: output.txt
-hello 1>
+hello 0>
 ```
