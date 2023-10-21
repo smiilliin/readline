@@ -18,6 +18,12 @@ Building and running this program
 cmake . && make && ./rl
 ```
 
+Release thie program
+
+```bash
+cmake -D CMAKE_BUILD_TYPE=Release . && make
+```
+
 ### Options
 
 Program options used when running
